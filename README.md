@@ -10,12 +10,12 @@ So with this tool you can extract candidate info into a CSV, load it into a spre
 
 ### How to use
 
-* Create a LinkedIn Recruiter Lite and populate it with candidates
-* In Chrome Go to https://www.linkedin.com/talent/home
+* Create a LinkedIn Recruiter Lite project and populate it with candidates
+* In Chrome go to https://www.linkedin.com/talent/home
 * Open up Chrome Developer Tools
 * Go to the Network Tab
-* Make sure the record button is on (red).  It should be.  If not make it so
-* Enable "preserve logs"
+* Make sure the Record button is on (red/pink).  It should be.  If not make it so.
+* Enable "Preserve logs" by clicking the check box
 * Now click on the project of interest, which takes you to the first page of results
 * Page through the results using the pager control at the top right (e.g. 1-25 >)
 * After you have paged through the full results right click on any of the log results down in the inspector and choose "Save all as HAR with Content"
