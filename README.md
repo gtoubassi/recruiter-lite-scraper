@@ -4,7 +4,7 @@ This script is offered as is and is far from "high art".
 
 ### Scrape LinkedIn Recruiter Lite Candidates into a CSV
 
-In using LinkedIn Recruiter Lite and was frustrated that I couldn’t export or download my candidate list into a csv and process it with my own tools/spreadsheet (e.g. Excel or Google Sheets).  This repo lets you record a browsing session in Google Chrome, save that browsing session, and then extract the relevant candidate details into a CSV.  All you have to do is manually page through each result to capture it in the browsing session.  The idea of scraping small bits of data for websites that require you to login simply by manually viewing the pages and then post processing the browsing session archive is a powerful one I will use in the future.
+In using LinkedIn Recruiter Lite I was frustrated that I couldn’t export or download my candidate list into a csv and process it with my own tools/spreadsheet (e.g. Excel or Google Sheets).  This repo lets you record a browsing session in Google Chrome, save that browsing session, and then extract the relevant candidate details into a CSV.  All you have to do is manually page through each result to capture it in the browsing session.  The idea of scraping small bits of data for websites that require you to login simply by manually viewing the pages and then post processing the browsing session archive is a powerful one I will use in the future.
 
 ### How to use
 
